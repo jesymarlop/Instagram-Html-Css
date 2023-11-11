@@ -12,7 +12,7 @@
     flex-direction: row;
     justify-content: space-around;
 }
-.photo img {
+.perfil {
     width: 150px;
     height: 150px;
     border-radius: 50%;
